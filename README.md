@@ -3,7 +3,7 @@
 ![Model Accuracies](model_accuracies.png)
 
 ## Overview
-This project aims to predict whether a patient has heart disease based on various clinical features. The dataset used contains information about patients' cardiac health, and several machine learning models are applied to classify whether a patient has heart disease or not.
+This project aims to predict whether a patient has heart disease based on various clinical features. The dataset used contains information about patients' cardiac health, and several machine learning models are applied to classify whether a patient has heart disease or not.the code in ml_work is well commented presenting the data cleaning first then the implementation of the algorithm and the metrics of each.
 
 ## Dataset
 The dataset contains the following features:
